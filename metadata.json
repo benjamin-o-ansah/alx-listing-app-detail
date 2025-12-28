@@ -1,0 +1,5 @@
+{
+  "name": "ALX Listing App",
+  "description": "An Airbnb clone project showcasing a property listing page built with React, TypeScript, and TailwindCSS. It features a responsive design, reusable components, and a clean user interface for browsing properties.",
+  "requestFramePermissions": []
+}
